@@ -10,4 +10,8 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 
+    public void demo(){
+        System.out.println("这是一个测试项目");
+    }
+
 }
