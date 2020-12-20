@@ -11,7 +11,7 @@ public class DemoApplication {
     }
 
     public void demo(){
-        System.out.println("这是一个测试项目aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+        System.out.println("这是一个测试项目aaaaaaaaaaaaaaaaaaaaaaaaaaa");
     }
 
 }
